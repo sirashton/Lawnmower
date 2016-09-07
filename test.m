@@ -4,6 +4,7 @@ clc
 close all
 
 drawSetup()
+
 global drawSpace
 
 global position positionL positionR
